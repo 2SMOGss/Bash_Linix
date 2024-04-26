@@ -1,2 +1,1 @@
-
-https://www.youtube.com/playlist?list=PLdmy_oXTrA6g0y1I7okcvV77Jg3rOWHzD
+<video src="https://youtube.com/shorts/FsCYyutF8OE?feature=share" controls="true"></video>
